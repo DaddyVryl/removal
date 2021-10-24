@@ -1,0 +1,18 @@
+/* REMOVAL */
+#mainLogo, #clientExit, #aMerger, #newsHolder, #youNewDiv, #onetrust-consent-sdk, .weapKey, #aHolder, .imageButton, #editorBtnM, .setSugBox,
+.headerBarRight .verticalSeparator, #seasonLabel, .krSocial, #voiceDisplay, #bubbleContainer, #claimPop, #popupBack, #headerRight,
+.endAHolder, #mapInfoHolder :not(:last-child), #curGameInfo, #merchImg, #igXPBar, #supportKrunker, #supportMapCreator, #endAContainer, #termsInfo,
+#timerIcon, .imageButton, #uiBase.onMenu #voiceDisplay, #aContainer, #tlInfHold, #loadEditrBtn, #rankedSoonTm, #menuWindow::-webkit-scrollbar, #chatList::-webkit-scrollbar, 
+.button.small.buttonO img, .settingsBtn[onclick="openOneTrust()"],#ammoIcon, #chatSwitchHolder, .menuSocialB, #hudClassIcon, .menBtnIcn, #maxHP, #killsIcon, #deathsIcon, #streakIcon, #challIcon{
+    display: none!important;
+}
+
+.UIB, .leftUIB, #healthValueHolder, .countIcon {
+    background-color: transparent!Important    
+}
+
+/* REMOVAL BUTTON COLOUR */
+.button,
+.button:hover{
+	border: hidden!important
+}
